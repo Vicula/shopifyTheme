@@ -1,3 +1,4 @@
+#### Theme Developed under Cobble Hill
 # Cobble Hill Shopify Theme
 
 This is the base theme all Cobble Hill Shopify sites will use here on out.
